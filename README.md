@@ -46,6 +46,7 @@ Collections.addAll(reversed, words);
 Collections.reverse(reversed);
 String reversedString = String.join(" ", reversed).toUpperCase();```
 ---
+```
 
 ## Cách chạy ứng dụng
 
