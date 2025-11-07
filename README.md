@@ -59,18 +59,18 @@ String reversedString = String.join(" ", reversed).toUpperCase();```
 ## Kết quả đạt được
 
 * Hiển thị thông tin sinh viên + ảnh bo tròn đẹp
-  
-  <img width="582" height="1067" alt="image" src="https://github.com/Khangdz296/images/img1.png" />
 
+![image1](images/img1.png)
+  
 * In số chẵn / lẻ ra **Logcat** với tag `EVEN` / `ODD`
-  
-  <img width="581" height="1066" alt="image" src="https://github.com/Khangdz296/images/img4.png" />
 
+![image2](images/img2.png)
+  
+![image2](images/img4.png)
 
 * Đảo ngược chuỗi và in hoa kết quả trên màn hình
 
-     <img width="583" height="1072" alt="image" src="https://github.com/Khangdz296/images/img3.png" />
-   
+![image3](images/img3.png)
     
 ---
 
