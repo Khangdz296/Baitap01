@@ -9,19 +9,19 @@
 
 ## Yêu cầu bài tập
 
-✅ Tạo project trên Android Studio
-✅ Hiển thị hình + thông tin sinh viên trên app
-✅ Ảnh bo tròn sử dụng thư viện:
+✅ Tạo project trên Android Studio  
+✅ Hiển thị hình + thông tin sinh viên trên app  
+✅ Ảnh bo tròn sử dụng thư viện:  
 
 ```gradle
 implementation 'de.hdodenhof:circleimageview:3.1.0'
 ```
 
-✅ Ẩn **ActionBar**
-✅ Nhập **mảng số** (ví dụ: `1,2,3,4,5`)
-→ In ra Logcat số **chẵn / lẻ** (**EVEN / ODD**)
+✅ Ẩn **ActionBar**  
+✅ Nhập **mảng số** (ví dụ: `1,2,3,4,5`)  
+→ In ra Logcat số **chẵn / lẻ** (**EVEN / ODD**)  
 
-✅ Nhập **chuỗi bất kỳ**
+✅ Nhập **chuỗi bất kỳ**  
 → Đảo ngược chuỗi và **in hoa**
 
 ---
